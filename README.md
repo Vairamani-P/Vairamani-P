@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm someone who loves crafting digital experiences
 ---
 
 ### 🔗 Let's Connect
-- 📌 **LinkedIn**: [Vairamani P](www.linkedin.com/in/vairamanip20)
+- 📌 **LinkedIn**: [Vairamani P](https://www.linkedin.com/posts/vairamani-prabhakaran-085420299_innovation-techforgood-engineeringjourney-activity-7302254216461303808-1Zr4?utm_source=share&utm_medium=member_android&rcm=ACoAAEgkomUBam2oTTBICb0Z9WYN6xsde67ysRc)
 - ✉️ **Email**: vairamanip03@gmail.com
 
 💬 I’m always open to collaboration and exciting new projects!
