@@ -28,12 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vairamani's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
----
 
 ## 🔗 Connect With Me
 
@@ -42,5 +36,7 @@
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](vairamanip03@gmail.com)
 
 ---
+
+🙌 Thanks for visiting! Let’s build something awesome together.
 
 
