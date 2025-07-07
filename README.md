@@ -1,48 +1,46 @@
-👋 Hi there, I'm VAIRAMANI P..
-🎨 Frontend Developer | Tech Explorer 
+# 👋 Hi there, I'm Vairamani P!
 
-Welcome to my GitHub profile! I'm someone who loves crafting digital experiences that are not only functional but also visually appealing. From pixel-perfect layouts to intuitive interactions, I enjoy transforming ideas into user-centric web solutions. Whether it's designing in Figma or bringing those designs to life with code, I find joy in the creative and technical process of building for the web.
-
-### 🙋‍♀️ About Me
-- 🎓 I’m currently pursuing **B.Tech in Information Technology**
-- 🌱 I’m actively learning **Real-Time Scripting, Java, JavaScript, CSS, HTML**, and **Content/Print Design**
-- 💻 Currently working on a **full-fledged website project**
-- 💡 I love learning **new technologies, solving real-world problems, and exploring creative ideas**
-- 🤝 I enjoy collaborating, joining tech communities, and participating in hackathons
-- 🚀 Growth mindset: **always ready to learn, build, improve, and innovate**
-- ✉️ Reach me at: **vairamanip03@gmail.com**
+💻 I’m a passionate Front-End Developer and Tech Enthusiast  
+🎓 Currently pursuing Btech IT at Kpriet  
+🌱 Learning JavaScript, Java, HTML/CSS, Real-Time Scripting
+📫 How to reach me: [vairamanip03@gmail.com]
 
 ---
 
-### 🚀 Skills & Expertise
-- 🌐 **Frontend Development**: HTML, CSS, JavaScript  
-- 🎨 **Design & Prototyping**: Figma, Web Design  
-- ⚙️ **Version Control**: Git & GitHub  
-- 📱 **Responsive Design** | ⚡ Performance Optimization 
+## 🛠️ Languages & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 💼 Portfolio
-🔗 **My Portfolio**: [Figma Portfolio](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1)
+## 📂 Projects
+
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| [🎨 Portfolio Website](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1) | My personal portfolio made with HTML, CSS & Figma design | HTML, CSS, Figma |
+| [📝 Student Record System](#) | Basic CRUD PHP project for managing student records | PHP, MySQL |
+| [🧠 Quiz App](#) | A simple quiz application using JavaScript | JavaScript, HTML, CSS |
 
 ---
 
-### 🔗 Let's Connect
-- 📌 **LinkedIn**: [Vairamani P](https://www.linkedin.com/posts/vairamani-prabhakaran-085420299_innovation-techforgood-engineeringjourney-activity-7302254216461303808-1Zr4?utm_source=share&utm_medium=member_android&rcm=ACoAAEgkomUBam2oTTBICb0Z9WYN6xsde67ysRc)
-- ✉️ **Email**: vairamanip03@gmail.com
+## 📊 GitHub Stats
 
-💬 I’m always open to collaboration and exciting new projects!
-
----
-
-### 🛠️ Languages & Tools
-
-`HTML` `CSS` `JavaScript`  `C` `C++` `Python`  
-`Figma` `GitHub`
+![Vairamani's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ---
 
+## 🔗 Connect With Me
 
-🌟 Thanks for visiting! Let’s build something awesome together🌟
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=figma&logoColor=white)](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vairamanip20)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](vairamanip03@gmail.com)
+
+---
 
 
