@@ -22,9 +22,7 @@
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
-| [🎨 Portfolio Website](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1) | My personal portfolio made with HTML, CSS & Figma design | HTML, CSS, Figma |
-| [📝 Student Record System](#) | Basic CRUD PHP project for managing student records | PHP, MySQL |
-| [🧠 Quiz App](#) | A simple quiz application using JavaScript | JavaScript, HTML, CSS |
+| [🎨 Portfolio Website](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1) | My personal portfolio made with Figma design | 
 
 ---
 
