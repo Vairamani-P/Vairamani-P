@@ -4,8 +4,7 @@
 - 🎓 Currently pursuing Btech IT at Kpriet  
 - 🌱 Learning JavaScript, Java, HTML/CSS, Real-Time Scripting
 - 📫 How to reach me :
-<br/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vairamanip20)
-<br/> [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](vairamanip03@gmail.com)
+<br/> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vairamanip20)[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](vairamanip03@gmail.com)
 
 
 ---
