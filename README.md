@@ -2,8 +2,7 @@
 
 💻 I’m a passionate Front-End Developer and Tech Enthusiast  
 🎓 Currently pursuing Btech IT at Kpriet  
-🌱 Learning JavaScript, Java, HTML/CSS, Real-Time Scripting 
----
+🌱 Learning ==JavaScript, Java, HTML/CSS, Real-Time Scripting== 
 📫 To reach me [vairamanip03@gmail.com]
 
 ---
