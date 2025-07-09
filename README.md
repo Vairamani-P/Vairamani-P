@@ -4,7 +4,7 @@
 - 🎓 Currently pursuing Btech IT at Kpriet  
 - 🌱 Learning JavaScript, Java, HTML/CSS, Real-Time Scripting
 - 📫 How to reach me :
-<br/> [<img src="
+<br/> [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vairamanip20"]
 
 ---
 
