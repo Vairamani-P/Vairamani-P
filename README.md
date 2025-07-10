@@ -11,7 +11,7 @@
 
 ## 🛠️ Languages & Tools
 
-<img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><img width="100" height="100" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/><img width="50" height="50" src="https://img.icons8.com/color/50/figma--v1.png" alt="figma--v1"/><img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><img width="50" height="50" src="https://img.icons8.com/plasticine/50/react.png" alt="react"/><img width="50" height="50" src="https://img.icons8.com/color/50/figma--v1.png" alt="figma--v1"/><img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/>
 
 ---
 
