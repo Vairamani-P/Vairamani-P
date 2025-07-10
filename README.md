@@ -11,9 +11,9 @@
 
 ## 🛠️ Languages & Tools
 
-HTML(<img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/>)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
