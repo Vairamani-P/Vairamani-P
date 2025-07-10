@@ -2,11 +2,14 @@
 <h3 align="center">💻  A Passionate Frontend developer and Tech Enthisiast</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">                                                          
 
+
+
 - 🎓 Currently pursuing **Btech IT at Kpriet** 
 - 🌱 Learning **JavaScript, Java, HTML/CSS, Real-Time Scripting**
 - 📫 How to reach me : 🖂 **vairamanip03@gmail.com**
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=figma&logoColor=white)](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1)
 - 📃My Resume ![Resume](https://drive.google.com/file/d/1I6tsZMcCz4VFlS9WAiRlZntjuam6WZgw/view?usp=sharing)
+
 
 
 
