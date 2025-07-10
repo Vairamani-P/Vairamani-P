@@ -15,6 +15,7 @@
 
 ---
 [![Vairamani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vairamani-P&bg_color=050505&color=f8f7f8&line=25c144&point=eee3e3&area=true&hide_border=true)](https://github.com/vairamani00710/github-readme-activity-graph)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Vairamani_123?theme=dark&font=Marcellus&ext=contest)
 ## 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=figma&logoColor=white)](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1)
