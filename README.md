@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi There , I'm Vairamani P</h1>
+<h1 align="center">👋Hi There , I'm Vairamani </h1>
 <h3 align="center">💻  A Passionate Frontend developer and Tech Enthisiast</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">                                                          
 
