@@ -20,6 +20,7 @@
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | [🎨 Portfolio Website](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1) | My personal portfolio made with Figma design | Figma |
+| [Healthy food Predictor](C:\Users\Psdk\OneDrive\Desktop\internet p\beg.html)|
 
 ---
 
