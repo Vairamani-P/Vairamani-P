@@ -5,6 +5,7 @@
 - 🎓 Currently pursuing Btech IT at Kpriet  
 - 🌱 Learning JavaScript, Java, HTML/CSS, Real-Time Scripting
 - 📫 How to reach me : [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vairamanip20) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](vairamanip03@gmail.com)
+- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=figma&logoColor=white)](https://www.figma.com/design/riSYvoX7j5b6N7yzjfMiY4/Vairamani-Portfolio?node-id=0-1&t=DQ0m0RSxxV7V61mK-1)
 
 
 ---
