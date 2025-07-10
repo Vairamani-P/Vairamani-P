@@ -1,5 +1,8 @@
 <h1 align="center">👋Hi There , I'm Vairamani P</h1>
 <h3 align="center">💻  A Passionate Frontend developer and Tech Enthisiast</h3>
+
+<img align="right"alt="coding"width="400"src="https://github.com/user-attachments/assets/f2324c47-d3b2-4868-93de-bf722ca42f00">
+
                                                                                                    
 
 - 🎓 Currently pursuing **Btech IT at Kpriet** 
