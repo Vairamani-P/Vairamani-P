@@ -1,4 +1,4 @@
-#                                                                                    👋 Hi there, I'm Vairamani P!
+<h1 align="center">Hi 👋, I'm Vairamani P</h1>
                                                                                                    
 
 - 💻 I’m a passionate Front-End Developer and Tech Enthusiast  
