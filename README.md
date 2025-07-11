@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi There , I'm Vairamani </h1>
 <h3 align="center">💻  A passionate Frontend developer and Tech Enthisiast</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">                                                          
+<img align="right" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">                                                          
 
 
 ### ✨ About Me
@@ -20,7 +20,8 @@
 
 
 ### 📊 Github Activities
-[![Vairamani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vairamani-P&bg_color=050505&color=f8f7f8&line=25c144&point=eee3e3&area=true&hide_border=true)](https://github.com/vairamani00710/github-readme-activity-graph)  ![Vairamani's github activity graph](https://github-readme-stats.vercel.app/api?username=Vairamani-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[![Vairamani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vairamani-P&bg_color=050505&color=f8f7f8&line=25c144&point=eee3e3&area=true&hide_border=true)](https://github.com/vairamani00710/github-readme-activity-graph)  
+![Vairamani's github activity graph](https://github-readme-stats.vercel.app/api?username=Vairamani-P&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
 
